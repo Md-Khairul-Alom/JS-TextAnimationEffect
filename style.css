@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Borel&family=Montserrat&family=Permanent+Marker&family=Poppins:wght@300&family=Roboto:ital,wght@0,300;0,200;1,300&display=swap');
+body{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+    font-family: 'Permanent Marker', cursive;
+}
